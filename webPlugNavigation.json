@@ -648,13 +648,13 @@
             "click":true
         },
         {
-            "name":"企鹅一起看(Web)",
+            "name":"测试Web)",
             "pic":"https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
             "keyDownPlay":false,
             "keyUpPlay":false,
             "userAgent":"PC",
             "ads":"",
-            "webUrl":"https://egame.qq.com/livelist?layoutid=2000000110",
+            "webUrl":"https://800rh.com/",
             "webOpen":true,
             "click":true
         }
