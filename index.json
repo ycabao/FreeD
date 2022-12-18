@@ -1,11 +1,11 @@
 ﻿{
-"spider":"./1.jar;md5;efb89c6b91da5145212e01b630627d0b",
+"spider":"https://ghproxy.com/https://raw.githubusercontent.com/ycabao/FreeD/master/1.jar;md5;efb89c6b91da5145212e01b630627d0b",
 "wallpaper":"http://饭太硬.ga/深色壁纸/api.php",
  "lives": [
     {
       "name": "直播",
       "type": 0,
-      "url": "./tv.txt",
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/ycabao/FreeD/master/tv.txt",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
     }
   ],
