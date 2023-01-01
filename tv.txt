@@ -21,8 +21,7 @@
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8 
 凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8 
 ⚛️  央视,#genre#
-CCTV1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225618/index.m3u8
-CCTV1,http://117.169.121.162:6610/PLTV/88888910/224/3221225618/index.m3u8
+CCTV1,https://cctvwbcdali.v.myalicdn.com/cctvwbcd/cdrmcctv1_1td.m3u8
 CCTV1,http://117.169.121.162:6610/PLTV/88888910/224/3221225642/index.m3u8
 CCTV2,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225619/index.m3u8
 CCTV2,http://117.169.121.162:6610/PLTV/88888910/224/3221225619/index.m3u8
@@ -68,6 +67,7 @@ CCTV11,http://39.135.138.60:18890/PLTV/88888910/224/3221225628/index.m3u8
 CCTV12,http://39.135.138.58:18890/TVOD/88888888/224/3221225637/index.m3u8
 CCTV12,http://117.169.121.162:6610/PLTV/88888910/224/3221225629/index.m3u8
 CCTV12,http://117.169.121.162:6610/PLTV/88888910/224/3221225637/index.m3u8
+CCTV13,https://cctvwbcdtxy.liveplay.myqcloud.com/cctvwbcd/cdrmjzcctv13_1_td.m3u8
 CCTV13,http://117.169.121.162:6610/PLTV/88888910/224/3221225638/index.m3u8
 CCTV13,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225638/index.m3u8
 CCTV13,http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
